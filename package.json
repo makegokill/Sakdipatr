@@ -1,0 +1,9 @@
+{
+  "name": "shop-points",
+  "version": "1.0.0",
+  "private": true,
+  "description": "LINE loyalty-points mini-app: Google Apps Script back end + static LIFF front end",
+  "scripts": {
+    "test": "node --test test/*.test.js"
+  }
+}
